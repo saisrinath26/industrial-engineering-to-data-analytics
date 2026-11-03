@@ -1,0 +1,20 @@
+PROJECT: My IT Learning Journey
+
+Name: Sai Srinath
+
+Current Skills:
+- Industrial Engineering
+- Tableau
+- Manufacturing Operations
+- Time Study
+- Lean Manufacturing
+
+Skills I Am Learning:
+- Python
+- SQL
+- Git and GitHub
+- Data Analytics
+- AI Automation
+
+Goal:
+To transition into Data Analytics and become skilled in IT automation.
